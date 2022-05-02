@@ -10,7 +10,7 @@ Hello, folks 👋
 <br> ⚡ Fun fact: Friendly people
 
  ### Actively Working:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg" style="padding-right:10px;" />
 
 #Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
