@@ -10,7 +10,7 @@ Hello, folks 👋
 <br> ⚡ Fun fact: Friendly people
 
  ### Actively Working:
-<img align="left" alt="Flutter" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Flutter" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" background-color="#000000" style="padding-right:10px;" />
 <img align="left" alt="Dart" width="80px" src="https://user-images.githubusercontent.com/12158468/166197868-1067b071-0147-4567-9e1e-d9543c924a60.png" style="padding-right:10px;" />
 
 
