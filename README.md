@@ -11,7 +11,7 @@ Hello, folks 👋
 
  ### Actively Working:
 <img align="left" alt="Flutter" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" style="background-color:Black;padding-right:10px;"/>
-<img align="left" alt="Dart" width="80px" src="https://user-images.githubusercontent.com/12158468/166197868-1067b071-0147-4567-9e1e-d9543c924a60.png" style="padding-right:10px;" />
+<img align="left" alt="Dart" width="80px" src="https://camo.githubusercontent.com/07a095f3a065c37f708e0d21f16893936fb43dd8c54883bac85449a1239b8d75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d507974686f6e2d626c61636b3f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765" style="padding-right:10px;" />
 
 
 <br />
