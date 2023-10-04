@@ -1,8 +1,8 @@
 Hello, folks 👋
  <br> "Learning never exhausts the mind." - Leonardo da Vinci </br>
   <br>![](https://komarev.com/ghpvc/?username=nayemuzzaman)
-<br> 🔭 I’m currently looking for Mobile Application development(Flutter) job
-<br> 🌱 I’m currently Focus on Flutter
+<br> 🔭 I’m currently looking for Mobile Application development(iOS) job
+<br> 🌱 I’m currently Focus on Swift(iOS), Flutter
 <br> 👯 I’m looking to collaborate on mobile application solutions
 <br> 🤔 I’m looking for help with Mobile architecture design pattern
 <br> 💬 Ask me about about technical solutions
