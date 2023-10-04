@@ -11,6 +11,7 @@ Hello, folks 👋
 <br> ⚡ Fun fact: Friendly people
 
  ### Actively Working:
+ <img align="left" alt="Swift" width="100px" src="https://user-images.githubusercontent.com/104855/37220777-e3448dd6-2384-11e8-8614-5cb2c373bf79.png" style="padding-right:10px;"/>
 <img align="left" alt="Flutter" width="100px" src="https://camo.githubusercontent.com/dd83448c89784947a4fe30a1730f2294fab894388f69bbf2fc65ad548170dcec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c75747465722d3145393046463f7374796c653d666c61742d737175617265266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465" style="padding-right:10px;"/>
 <img align="left" alt="Dart" height= "32px" width="100px" src="https://camo.githubusercontent.com/8ce8b971d0028cbb23c932046c6f106fb2f15a7da3e19c2303ffded510a25a18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446172742d626c75653f7374796c653d666c61742d737175617265266c6f676f3d64617274" style="padding-right:10px;"/>
 <img align="left" alt="Java" height= "50px" width="100px" src="https://camo.githubusercontent.com/fc8c5a1968764cd2c6828c639255224399806706174cd56c51817c429cb7a837/687474703a2f2f6c6f676f732d646f776e6c6f61642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f31302f4a6176615f6c6f676f5f69636f6e2e706e67" style="padding-right:10px;" />
