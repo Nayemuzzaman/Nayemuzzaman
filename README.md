@@ -7,7 +7,7 @@ Hello, folks 👋
 <br> 🤔 I’m looking for help with Mobile architecture design pattern
 <br> 💬 Ask me about about technical solutions
 <br> 📫 How to reach me: https://www.linkedin.com/in/nayemuzzaman/
-<br> 😄 Pronouns: Nayem
+<br> 😄 Pronouns: Nay-em-ooz-zah-man
 <br> ⚡ Fun fact: Friendly people
 
  ### Actively Working:
