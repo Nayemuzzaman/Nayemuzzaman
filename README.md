@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nayem Zaman 👋
+# Hi, I'm Nayem 👋
 
 ### Software Engineer | Mobile · Frontend · Backend · Cloud
 
@@ -42,7 +42,7 @@ I enjoy solving real product problems, designing maintainable systems, improving
 
 ## 🇯🇵 自己紹介
 
-日本で働いている **Software Engineer の Nayem Zaman** です。
+日本で働いている **Software Engineer の ネイム** です。
 
 **4年以上のソフトウェア開発経験**があり、モバイルアプリ、Webフロントエンド、バックエンド、API、データベース、クラウド、車載システムなど幅広い領域で開発に取り組んでいます。
 
